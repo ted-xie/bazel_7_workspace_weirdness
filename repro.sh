@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+set -exuo pipefail
+bazelisk query @rules_java//...
